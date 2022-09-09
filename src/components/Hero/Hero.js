@@ -19,7 +19,7 @@ const Hero = () => {
           <SectionTitle main center>
             My name is Lev
             <br />
-            and I am a Frontend Developer
+            and I am a Web Developer
           </SectionTitle>
           <SectionText>
             I build things for the web. <br />
